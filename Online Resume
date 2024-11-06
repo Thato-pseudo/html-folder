@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+    <head> 
+    <title> Online_Resume </title>
+    </head>
+
+    <body>
+        <h1>My Resume</h1>
+        <hr>
+        <h2> Summary</h2>
+        This website contains a summary of my web development experience.
+        <h2>Education</h2>
+        The 2024 Web Development Bootcamp
+        <h2>Work Experience</h2>
+        Python and prophet
+        <h2>Skills</h2>
+        <Ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Javascript</li>
+            <li>Node</li>
+            <li>React</li>
+            <li>PostgreSQL</li>
+            <LI>Web3</LI>
+            <li>DApps</li>
+        </Ul>
+    </body>
+</html>
